@@ -1,8 +1,8 @@
 {
     "version": "6.3.0",
-    "projectId": "",
-    "applicationID": 0,
-    "creativeName": "",
+    "projectId": "1bfc592d7ca2ccc459c3f8a429931cb7",
+    "applicationID": 29408,
+    "creativeName": "Merge-Sticker-Playerbook-Color-Quest",
     "pgServer": "EU",
     "window": {
         "‐″": true
@@ -76,12 +76,12 @@
                 "Stubs/SupersonicWisdom/"
             ],
             "msbuildMac64": "/Library/Frameworks/Mono.framework/Versions/Current/bin/msbuild",
-            "msbuildWin64": "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/MSBuild.exe",
+            "msbuildWin64": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe",
             "externalSources": [],
             "externalJSLibraries": [],
             "scriptingDefines": [],
-            "msbuildVersion": "",
-            "monoVersion": "",
+            "msbuildVersion": "17.13",
+            "monoVersion": "9.0.3",
             "dotnetVersion": ""
         },
         "assets": {
@@ -125,10 +125,15 @@
                 "Stubs/MoreMountains.NiceVibrations"
             ],
             "includes": [
-                "Assets/Resources/DOTweenSettings.asset"
+                "Assets/Resources/DOTweenSettings.asset",
+                "Assets/TextMesh Pro/Resources/TMP Settings.asset"
             ]
         },
-        "scenes": [],
+        "scenes": [
+            "Assets/Scenes/Level 1 Scene.unity",
+            "Assets/Scenes/Level 2 Scene.unity",
+            "Assets/Scenes/Level 3 Scene.unity"
+        ],
         "disabledScenes": [],
         "startupScene": 0,
         "packages": {
@@ -204,6 +209,36 @@
                         "script": "",
                         "ext": "",
                         "name": "Resources/unity_builtin_extra/Default-Particle"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Font/BalooThambi-Regular SDF.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
                     }
                 ]
             },
@@ -211,8 +246,8 @@
                 "default": {
                     "channels": 1,
                     "startTime": "00:00.000",
-                    "endTime": "00:00.000",
-                    "lengthInSeconds": 0.0,
+                    "endTime": "00:30.000",
+                    "lengthInSeconds": 30.0,
                     "bitrate": 128,
                     "script": "",
                     "ext": ""

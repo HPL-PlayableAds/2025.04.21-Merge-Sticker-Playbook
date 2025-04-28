@@ -1,0 +1,66 @@
+{
+  "ignores": [
+    "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleAudio.cs",
+    "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics.cs",
+    "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics2D.cs",
+    "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleSprite.cs",
+    "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUI.cs",
+    "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+  ],
+  "groups": [
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/AudioManager.cs",
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/CircleDrag.cs",
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/CircleDrop.cs",
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/LevelManager.cs",
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/LongVersion.cs",
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/CircleAnimation.cs",
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/TutorialHand.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/CheckmarkAnimation.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/DownloadNow.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndCardAnimation.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/LunaTemp/stage3/processed-scripts/Assets/Scripts/ObjectAnimation.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/6.3.0/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/6.3.0/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "E:/Repositories/Unity/2025.04.21-Merge-Sticker-Playbook/Merge Sticker Playbook - Color Quest/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}
