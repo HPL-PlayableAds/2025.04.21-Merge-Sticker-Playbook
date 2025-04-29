@@ -1847,7 +1847,7 @@ Deserializers.productName = "Merge Sticker Playbook - Color Quest";
 
 Deserializers.lunaInitializationTime = "04/28/2025 08:15:54";
 
-Deserializers.lunaDaysRunning = "0.1";
+Deserializers.lunaDaysRunning = "1.0";
 
 Deserializers.lunaVersion = "6.3.0";
 
@@ -1903,7 +1903,7 @@ Deserializers.graphicsConstraint = 28;
 
 Deserializers.linearColorSpace = false;
 
-Deserializers.buildID = "1f646827-978c-47f7-ae06-dfd28bd34083";
+Deserializers.buildID = "8421eb7b-c494-447f-ad09-5fdd31eca583";
 
 Deserializers.runtimeInitializeOnLoadInfos = [[["UnityEngine","Experimental","Rendering","ScriptableRuntimeReflectionSystemSettings","ScriptingDirtyReflectionSystemInstance"]],[["Unity","VisualScripting","RuntimeVSUsageUtility","RuntimeInitializeOnLoadBeforeSceneLoad"]],[],[],[]];
 

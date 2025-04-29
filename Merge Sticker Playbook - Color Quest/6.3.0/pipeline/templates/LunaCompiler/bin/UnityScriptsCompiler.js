@@ -1,5 +1,5 @@
 /**
- * @version 1.0.9249.32756
+ * @version 1.0.9250.28093
  * @copyright anton
  * @compiler Bridge.NET 17.9.42-luna
  */
@@ -259,7 +259,7 @@ Bridge.assembly("UnityScriptsCompiler", function ($asm, globals) {
             /*CircleDrop.GetResultingColor start.*/
             GetResultingColor: function (dragType, dropType) {
                 if (Bridge.referenceEquals(dragType, dropType)) {
-                    return null;
+                    return dragType;
                 } else {
                     if ((Bridge.referenceEquals(dragType, "Yellow") && Bridge.referenceEquals(dropType, "White")) || (Bridge.referenceEquals(dragType, "White") && Bridge.referenceEquals(dropType, "Yellow"))) {
                         return "Yellow";

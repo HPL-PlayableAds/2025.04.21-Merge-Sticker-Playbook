@@ -371,7 +371,7 @@ MonoBehaviour:
   _usedByLunaBuild: []
   _includedShaderVariants: []
   _excludedShaderVariants: []
-  version: 128
+  version: 151
   _shaderParsedShaders:
   - ParsedSubShaders:
     - Index: 0
@@ -6065,7 +6065,7 @@ MonoBehaviour:
   _sceneLightData:
     PointLightCount: 0
     SpotLightCount: 0
-    DirectionalLightCount: 6
+    DirectionalLightCount: 9
     LightmapOn: 0
     DirlightmapCombined: 0
     DirectionalCookieExists: 0

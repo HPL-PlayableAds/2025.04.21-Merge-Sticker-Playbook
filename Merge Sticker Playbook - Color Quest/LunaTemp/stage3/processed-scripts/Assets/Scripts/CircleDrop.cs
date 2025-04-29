@@ -32,7 +32,7 @@ public class CircleDrop : MonoBehaviour, IDropHandler
 
     private string GetResultingColor(string dragType, string dropType)
     {
-        if (dragType == dropType) return null;
+        if (dragType == dropType) return dragType;
 
         else if ((dragType == "Yellow" && dropType == "White") || (dragType == "White" && dropType == "Yellow"))
             return "Yellow";
